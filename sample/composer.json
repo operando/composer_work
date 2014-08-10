@@ -1,0 +1,6 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "4.0.*@dev",
+    "pear/archive_tar" : "1.3.*"
+  }
+}
